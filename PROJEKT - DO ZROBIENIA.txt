@@ -1,5 +1,0 @@
-- /sortowanie wyników wyszukiwania - najpierw wyniki zaczynające się od wpisanej frazy
-- /możliwość oznaczania artykułów jako możliwe do edycji przez innych użytkowników lub nie
-- /formatowanie w opisach
-- /urozmaicenie stron braku wyników wyszukiwania, autentykacji i braku artykułu - losowe artykuły?
-- /wygląd
